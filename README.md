@@ -21,8 +21,8 @@
 
 ### Most Languages Used: 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankur-24&show_icons=true&locale=en&layout=compact" alt="ankur-24" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankur-24&show_icons=true&locale=en&layout=compact" alt="ankur-24" /></p>
+<br/><br/>
 
 ### Languages and Tools:
 
@@ -30,7 +30,7 @@
 
 
 <br><br>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=ankur-24&show_icons=true&locale=en" alt="ankur-24" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ankur-24&show_icons=true&locale=en" alt="ankur-24" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankur-24&" alt="ankur-24" /></p> -->
 
