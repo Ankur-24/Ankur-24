@@ -15,7 +15,7 @@
 <a href="https://twitter.com/shrivastava_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shrivastava_19" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ankur-shrivastava-b2234b12b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankur-shrivastava-b2234b12b" height="30" width="40" /></a>
 <a href="https://fb.com/ankurgwl2014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankurgwl2014" height="30" width="40" /></a>
-<a href="https://instagram.com/ankur.shrivastava_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankur.shrivastava_" height="30" width="40" /></a>
+<a href="https://instagram.com/ankur.shrivastava_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankurshrivastava_" height="30" width="40" /></a>
 </p>
 
 
